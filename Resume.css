@@ -11,7 +11,7 @@ body {
 }
 .body-1 {
     background-image:url(./wallpaper.jpg);
-    border: solid 2px;
+/*     border: solid 2px; */
     border-radius: 15px;
     background-color: rgba(211, 209, 197, 0.2);
     margin-top: 35px;
